@@ -10,9 +10,9 @@ The plot of the target as a function of the two principal components for the tra
 
 Next we plot decision boundary and decision probabilities for each classifier:
 
-!(https://github.com/eagronin/mushroom-classification-report/blob/master/logit.png)
-!(https://github.com/eagronin/mushroom-classification-report/blob/master/knn.png)
-!(https://github.com/eagronin/mushroom-classification-report/blob/master/tree.png)
+![This is an image](https://github.com/eagronin/mushroom-classification-report/blob/master/logit.png)
+![](https://github.com/eagronin/mushroom-classification-report/blob/master/knn.png)
+![](https://github.com/eagronin/mushroom-classification-report/blob/master/tree.png)
 !(https://github.com/eagronin/mushroom-classification-report/blob/master/forest.png)
 !(https://github.com/eagronin/mushroom-classification-report/blob/master/svc.png)
 !(https://github.com/eagronin/mushroom-classification-report/blob/master/naive.png)
