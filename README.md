@@ -5,7 +5,7 @@ This section visualizes decision boundary and decision probabilities for each cl
 
 The plot of the target as a function of the two principal components for the training data is shown below:
 
-![This is an image](https://github.com/eagronin/mushroom-classification-report/blob/master/pca.png)
+![This is an image.](https://github.com/eagronin/mushroom-classification-report/blob/master/pca.png)
 
 Next we plot decision boundary and decision probabilities for each classifier along with the accuracy based on the test data:
 
