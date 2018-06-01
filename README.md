@@ -9,10 +9,10 @@ The plot of the target as a function of the two principal components for the tra
 
 Next we plot decision boundary and decision probabilities for each classifier along with the accuracy based on the test data:
 
-![](https://github.com/eagronin/mushroom-classification-report/blob/master/logit.png)
-![](https://github.com/eagronin/mushroom-classification-report/blob/master/knn.png)
-![](https://github.com/eagronin/mushroom-classification-report/blob/master/tree.png)
-![](https://github.com/eagronin/mushroom-classification-report/blob/master/forest.png)
-![](https://github.com/eagronin/mushroom-classification-report/blob/master/svc.png)
-![](https://github.com/eagronin/mushroom-classification-report/blob/master/naive.png)
-![](https://github.com/eagronin/mushroom-classification-report/blob/master/mlp.png)
+![](https://github.com/eagronin/mushroom-classification-report/blob/master/logit.png?raw=true)
+![](https://github.com/eagronin/mushroom-classification-report/blob/master/knn.png?raw=true)
+![](https://github.com/eagronin/mushroom-classification-report/blob/master/tree.png?raw=true)
+![](https://github.com/eagronin/mushroom-classification-report/blob/master/forest.png?raw=true)
+![](https://github.com/eagronin/mushroom-classification-report/blob/master/svc.png?raw=true)
+![](https://github.com/eagronin/mushroom-classification-report/blob/master/naive.png?raw=true)
+![](https://github.com/eagronin/mushroom-classification-report/blob/master/mlp.png?raw=true)
