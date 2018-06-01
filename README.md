@@ -6,14 +6,14 @@ Random Forest Classifier achieving the maximum accuracy score of 0.94 for the te
 
 The plot of the target as a function of the two principal components for the training data is shown below:
 
-!(https://github.com/eagronin/mushroom-classification-report/blob/master/pca.png)
+![](https://github.com/eagronin/mushroom-classification-report/blob/master/pca.png)
 
 Next we plot decision boundary and decision probabilities for each classifier:
 
-![This is an image](https://github.com/eagronin/mushroom-classification-report/blob/master/logit.png)
+![](https://github.com/eagronin/mushroom-classification-report/blob/master/logit.png)
 ![](https://github.com/eagronin/mushroom-classification-report/blob/master/knn.png)
 ![](https://github.com/eagronin/mushroom-classification-report/blob/master/tree.png)
-!(https://github.com/eagronin/mushroom-classification-report/blob/master/forest.png)
-!(https://github.com/eagronin/mushroom-classification-report/blob/master/svc.png)
-!(https://github.com/eagronin/mushroom-classification-report/blob/master/naive.png)
-!(https://github.com/eagronin/mushroom-classification-report/blob/master/mlp.png)
+![](https://github.com/eagronin/mushroom-classification-report/blob/master/forest.png)
+![](https://github.com/eagronin/mushroom-classification-report/blob/master/svc.png)
+![](https://github.com/eagronin/mushroom-classification-report/blob/master/naive.png)
+![](https://github.com/eagronin/mushroom-classification-report/blob/master/mlp.png)
