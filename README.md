@@ -2,7 +2,7 @@
 
 ## Overview
 
-This section reports the results of classifying mushrooms into edible and not edible by appllying several classifiers that include logistic regression, KNN, decision tree, random forest, SVC, naive Bayes and neural network.
+This section reports the results of classifying mushrooms into edible and not edible by applying several classifiers that include logistic regression, KNN, decision tree, random forest, SVC, naive Bayes and neural network.
 
 The analysis is described in the [previous section](https://eagronin.github.io/mushroom-classification-analyze).
 
